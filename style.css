@@ -37,6 +37,8 @@ html {
   padding: 0.5em;
   width: 60%;
   float: left;
+}
+.units-list {
   line-height: 1.75em;
 }
 .news {
