@@ -67,7 +67,7 @@ html {
   white-space: nowrap;
   text-overflow: ellipsis;
   margin-bottom: 0.5em;
-  height: 2em;
+  line-height: 2em;
 }
 a {
   text-decoration: none;
