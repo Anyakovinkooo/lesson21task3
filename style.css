@@ -34,7 +34,6 @@ html {
   line-height: 1.75em;
 }
 .section {
-  line-height: 1.75em;
   padding: 0.5em;
   width: 60%;
   float: left;
@@ -49,7 +48,7 @@ html {
   color: #8b0000;
   background-color: #e5e5e5;
   font-weight: 700;
-  font-size: 1.125em;
+  font-size: 1.125rem;
 }
 .section__header {
   font-size: 5vw;
@@ -60,9 +59,8 @@ html {
   list-style-type: none;
 }
 .nav-list-item {
-  width: 100%;
-  padding-left: 16px;
   font-size: 16px;
+  padding-left: 0.5em;
   background-color: #808080;
   color: white;
   overflow: hidden;
@@ -71,7 +69,7 @@ html {
   margin-bottom: 0.5em;
   line-height: 2em;
 }
-.nav-list-link {
+a {
   text-decoration: none;
   color: white;
 }
