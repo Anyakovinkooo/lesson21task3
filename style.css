@@ -59,8 +59,9 @@ html {
   list-style-type: none;
 }
 .nav-list-item {
+  width: 100%;
+  padding-left: 16px;
   font-size: 16px;
-  padding: 0 0.5em;
   background-color: #808080;
   color: white;
   overflow: hidden;
@@ -69,7 +70,7 @@ html {
   margin-bottom: 0.5em;
   line-height: 2em;
 }
-a {
+.nav-list-link {
   text-decoration: none;
   color: white;
 }
