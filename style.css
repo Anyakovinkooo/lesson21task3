@@ -31,9 +31,9 @@ html {
   padding: 0.5em;
   width: 20%;
   float: left;
-  line-height: 1.75em;
 }
 .section {
+  line-height: 1.75em;
   padding: 0.5em;
   width: 60%;
   float: left;
