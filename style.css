@@ -59,6 +59,7 @@ html {
 }
 .nav-list {
   padding: 0;
+  margin: 0;
   list-style-type: none;
 }
 .nav-list-item {
@@ -66,7 +67,7 @@ html {
   padding-left: 0.5em;
   background-color: #808080;
   color: white;
-  margin-bottom: 0.5em;
+  margin-top: 0.5em;
   line-height: 2em;
 }
 .nav-list-link {
