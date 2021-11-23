@@ -65,17 +65,15 @@ html {
   background-color: #808080;
   color: white;
   margin-bottom: 0.5em;
-  line-height: 2em;
+  height: 2em;
 }
 .nav-list-link {
   width: 100%;
   display: inline-block;
   padding: 0 0.5em;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  display: block;
-  height: 100%;
   text-decoration: none;
   color: white;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
