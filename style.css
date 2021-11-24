@@ -27,6 +27,7 @@ html {
   padding: 0.5em;
 }
 .navigation {
+  font-size: 16px;
   padding: 0.5em;
   width: 20%;
   float: left;
@@ -57,7 +58,6 @@ html {
   text-align: center;
 }
 .nav-list {
-  font-size: 16px;
   padding: 0;
 }
 .nav-list-item {
