@@ -61,6 +61,7 @@ html {
 }
 .nav-list-item {
   list-style-type: none;
+  font-size: 16px;
   line-height: 2em;
   background-color: #808080;
   color: white;
