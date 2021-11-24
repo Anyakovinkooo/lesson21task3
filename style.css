@@ -7,10 +7,10 @@ body {
   flex-direction: column;
 }
 html {
+  font-size: 16px;
   height: 100%;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #555;
-  font-size: 16px;
 }
 .main {
   flex-grow: 1;
@@ -57,11 +57,11 @@ html {
   text-align: center;
 }
 .nav-list {
+  font-size: 16px;
   padding: 0;
 }
 .nav-list-item {
   list-style-type: none;
-  font-size: 16px;
   line-height: 2em;
   background-color: #808080;
   color: white;
